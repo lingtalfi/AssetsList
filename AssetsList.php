@@ -1,9 +1,9 @@
 <?php
 
 
-namespace AssetsList;
+namespace Ling\AssetsList;
 
-use Bat\StringTool;
+use Ling\Bat\StringTool;
 
 
 /**

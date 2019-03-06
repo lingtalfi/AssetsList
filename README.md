@@ -19,7 +19,7 @@ Install
 
 Using the [uni tool](https://github.com/lingtalfi/universe-naive-importer)
 ```bash
-uni import AssetsList
+uni import Ling/AssetsList
 ```
 
 
